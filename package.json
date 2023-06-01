@@ -1,0 +1,31 @@
+{
+  "name": "@sunlt/m3u8-downloader",
+  "version": "1.0.2",
+  "description": "",
+  "main": "lib/index.js",
+  "bin": "bin/m3u8-downloader",
+  "homepage": "https://github.com/sunlt/m3u8-download",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sunlt",
+  "keywords": [
+    "hls",
+    "m3u8",
+    "download"
+  ],
+  "license": "ISC",
+  "files": [
+    "lib",
+    "bin"
+  ],
+  "dependencies": {
+    "@sunlt/m3u8-downloader": "^1.0.3",
+    "args": "^5.0.1",
+    "axios": "^1.4.0",
+    "bluebird": "^3.7.2",
+    "lodash": "^4.17.15",
+    "m3u8-parser": "^4.4.0",
+    "request": "^2.88.2"
+  }
+}
