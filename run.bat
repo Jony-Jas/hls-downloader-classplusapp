@@ -1,4 +1,5 @@
 @echo off
+call init.bat
 set appPath=%cd%\app.js
 node "%appPath%"
 echo The app.js script has been executed successfully.
