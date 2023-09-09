@@ -1,3 +1,7 @@
+# No longer working :(
+#
+#
+#
 # 🎥 HLS Downloader
 This software is designed to assist users in downloading videos from the Classpluss app using the m3u8 link. With this tool, users can easily save Classpluss videos for offline viewing or archiving purposes. By utilizing the m3u8 link, the software extracts and downloads the video content, providing a convenient way to access and watch the videos at any time, even without an internet connection. 
 
